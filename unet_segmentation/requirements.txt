@@ -1,0 +1,5 @@
+torch>=2.0
+numpy
+opencv-python-headless
+albumentations>=2.0
+matplotlib

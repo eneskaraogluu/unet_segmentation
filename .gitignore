@@ -1,0 +1,9 @@
+﻿__pycache__/
+.venv/
+venv/
+checkpoints/
+*.log
+.env*
+*.pt
+*.pth
+create_report.py
